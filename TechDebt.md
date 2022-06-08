@@ -2,4 +2,4 @@
 
 ## 1. Pomodoro
 
-- Questions and decesions.
+- I found out the algorithm but I am still searching a good soultion.
