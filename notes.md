@@ -29,11 +29,11 @@ it may happen that the input string have leading, trailing whitespaces and more 
 
 ### Guardinas
 
-- Input string.🔴💿
-- It is possible that input has more than a unique whitespace between two consecutive numbers.🔴💿
-- Output string.🔴💿
+- Input string.🔴💿🟢💿♻️💿✅🍅
+- It is possible that input has more than a unique whitespace between two consecutive numbers.🔴💿🟢💿♻️💿✅🍅
+- Output string.🔴💿🟢💿♻️💿✅🍅
 
 ### Process
 
-- The new numbers should be created from the sum of the digits.🔴💿
-- In case some vaule we have to use the alphabetical order.🔴💿
+- The new numbers should be created from the sum of the digits.🔴💿🟢💿♻️💿✅🍅🍅🍅
+- In case some vaule we have to use the alphabetical order.🔴💿🟢💿♻️💿✅🍅🍅🍅
