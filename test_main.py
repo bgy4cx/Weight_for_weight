@@ -1,4 +1,4 @@
-from main import order_weight
+from main import order_weight, order_logic
 
 def test_order_weight_1():
     assert order_weight("103 123 4444 99 2000") == "2000 103 123 4444 99"
@@ -8,3 +8,6 @@ def test_order_weight_2():
 
 def test_order_weight_3():
     assert order_weight("") == ""
+
+def test_order_logic():
+    assert order_logic("13") == 4
